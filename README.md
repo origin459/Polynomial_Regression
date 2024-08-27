@@ -1,3 +1,4 @@
+##Polynomial Regression from scratch##
 This is a Polynomial Regression model that has a single feature and single target variable. 
 The code is pretty straightforward.
 To train the model on custom dataset, change the dataset location in the line #6. 
